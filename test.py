@@ -6,6 +6,14 @@ def another_function():
     print("Testing CQT custom rules")
 
 
+
+
+
+def another_function():
+    print("Testing CQT custom rules")
+
+
+
 if __name__ == "__main__":
     hello()
     another_function()
